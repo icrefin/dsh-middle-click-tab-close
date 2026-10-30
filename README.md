@@ -7,13 +7,13 @@ terminal, deliverables and the guide.
 **English** | [简体中文](README.zh-CN.md)
 
 [![License](https://img.shields.io/github/license/icrefin/dsh-middle-click-tab-close?style=flat-square)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/icrefin/dsh-middle-click-tab-close?style=flat-square)](https://github.com/icrefin/dsh-middle-click-tab-close/releases/tag/v0.1.0)
+[![Release](https://img.shields.io/github/v/release/icrefin/dsh-middle-click-tab-close?style=flat-square)](https://github.com/icrefin/dsh-middle-click-tab-close/releases/tag/v0.1.1)
 [![CI](https://img.shields.io/github/actions/workflow/status/icrefin/dsh-middle-click-tab-close/ci.yml?branch=main&style=flat-square)](https://github.com/icrefin/dsh-middle-click-tab-close/actions/workflows/ci.yml)
 [![Last commit](https://img.shields.io/github/last-commit/icrefin/dsh-middle-click-tab-close?style=flat-square)](https://github.com/icrefin/dsh-middle-click-tab-close/commits/main)
 [![Stars](https://img.shields.io/github/stars/icrefin/dsh-middle-click-tab-close?style=flat-square)](https://github.com/icrefin/dsh-middle-click-tab-close/stargazers)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/icrefin/dsh-middle-click-tab-close/pulls)
 [![Node](https://img.shields.io/badge/node-%3E%3D22.17-339933?style=flat-square&logo=node.js)](https://nodejs.org)
-[![dsh](https://img.shields.io/badge/dsh-0.2.1--rc.3-4B5563?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
+[![dsh](https://img.shields.io/badge/dsh-0.2.1--rc.5-4B5563?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
 
 ## The gesture
 
