@@ -1,6 +1,6 @@
 {
   "name": "dsh-middle-click-tab-close",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Close a right-sidebar tab in the DeepSeek Harness desktop app with the middle mouse button",
   "keywords": [
     "deepseek-harness",
@@ -15,7 +15,7 @@
   "packageManager": "pnpm@11.20.0",
   "engines": {
     "node": ">=24.9.0",
-    "dsh": ">=0.2.2-rc.1 <0.2.3-0"
+    "dsh": ">=0.2.2-rc.2 <0.2.3-0"
   },
   "main": "lib/index.js",
   "types": "lib/types/index.d.ts",

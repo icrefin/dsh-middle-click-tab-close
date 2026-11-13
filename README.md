@@ -4,7 +4,7 @@ Middle-click a tab in DeepSeek Harness's right sidebar to close it — the gestu
 browsers give their own tabs, for the tabs dsh opens for files, the terminal,
 deliverables and the guide.
 
-Tested against **dsh 0.2.2-rc.1** (desktop and web UI).
+Tested against **dsh 0.2.2-rc.2** (desktop and web UI).
 
 ```
 Right sidebar ▸ [Report ×] [Guide] [Terminal ×]
@@ -58,7 +58,7 @@ exactly that.
 ```sh
 pnpm install
 pnpm check                       # typecheck all three projects, build, vitest
-pnpm run pack                    # -> dist/dsh-middle-click-tab-close-0.1.2.tgz
+pnpm run pack                    # -> dist/dsh-middle-click-tab-close-0.1.3.tgz
 ```
 
 The desktop profile is owned by the Electron application, so `dsh plugin add`
